@@ -1,5 +1,5 @@
 # Multi-Task-Learning-Model
-![fig1](Picture1.png)
+<img src="Picture1.png" alt="fig1" width="400"/>
 
 ## Motivation
 
