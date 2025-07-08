@@ -10,7 +10,7 @@ Multi-Task Learning (MTL) Model is a sub-field of machince learning for solve mu
 
 ## Project Aim
 
-In this study, we aim to answer the following hypotheses: Does MTL achieve better performance than training a separate model for each task? In other ward, Do multiple tasks provide positive transfer and improve each other’s performance?
+This study aim to answer the following hypotheses: Does MTL achieve better performance than training a separate model for each task? In other ward, Do multiple tasks provide positive transfer and improve each other’s performance?
 
 ## Resulte
 
