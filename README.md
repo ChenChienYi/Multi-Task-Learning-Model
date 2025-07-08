@@ -14,6 +14,8 @@ This study aim to answer the following hypotheses: Does MTL achieve better perfo
 
 ## Resulte
 
+In this evaluation, the Multi-Task Learning model performs comparably to or slightly better than the single-task models across both Attribute Recognition (e.g., Macro Accuracy of  0.7966 for MTL vs. 0.7945 for Single model) and Landmark Localization (e.g., MAE of 0.0081 for MTL vs. 0.0082 for Single Model). This indicates that the MTL setup is effectively leveraging shared knowledge, avoiding negative transfer, and achieving similar (or slightly improved) results with the potential benefits of efficiency and a unified architecture.
+
 ## Reference
 
 [1] Yu, J., Dai, Y., Liu, X., Huang, J., Shen, Y., Zhang, K., Zhou, R., Adhikarla, E., Ye, W., Liu, Y. and Kong, Z., 2024. Unleashing the power of multi-task learning: A comprehensive survey spanning traditional, deep, and pretrained foundation model eras. arXiv preprint arXiv:2404.18961.
